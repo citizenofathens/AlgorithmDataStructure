@@ -1,6 +1,6 @@
 
 
-# 배우고 부족했던 것 : 시점 개념 호출 개념
+# 배우고 부족했던 것 : 시점 개념 , 호출 개념 , parameter 와 argument 차이 
 import numpy as np
 
 if __name__ == '__main__':
